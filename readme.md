@@ -7,4 +7,5 @@
 * Student repositories
 * GitHub Classroom
 * Permissions
-* Another thing
+* Another thing2
+* Yet another thing
